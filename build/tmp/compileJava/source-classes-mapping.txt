@@ -2,3 +2,11 @@ co/com/choucair/certification/jhonescudero/userinterface/ChoucairAcademyPage.jav
  co.com.choucair.certification.jhonescudero.userinterface.ChoucairAcademyPage
 co/com/choucair/certification/jhonescudero/tasks/OpenUp.java
  co.com.choucair.certification.jhonescudero.tasks.OpenUp
+co/com/choucair/certification/jhonescudero/userinterface/ChoucairLoginPage.java
+ co.com.choucair.certification.jhonescudero.userinterface.ChoucairLoginPage
+co/com/choucair/certification/jhonescudero/tasks/Login.java
+ co.com.choucair.certification.jhonescudero.tasks.Login
+co/com/choucair/certification/jhonescudero/userinterface/SearchCoursePage.java
+ co.com.choucair.certification.jhonescudero.userinterface.SearchCoursePage
+co/com/choucair/certification/jhonescudero/tasks/Search.java
+ co.com.choucair.certification.jhonescudero.tasks.Search
