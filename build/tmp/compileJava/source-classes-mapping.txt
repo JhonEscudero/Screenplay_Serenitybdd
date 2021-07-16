@@ -1,0 +1,4 @@
+co/com/choucair/certification/jhonescudero/userinterface/ChoucairAcademyPage.java
+ co.com.choucair.certification.jhonescudero.userinterface.ChoucairAcademyPage
+co/com/choucair/certification/jhonescudero/tasks/OpenUp.java
+ co.com.choucair.certification.jhonescudero.tasks.OpenUp

@@ -1,2 +1,4 @@
 co/com/choucair/certification/jhonescudero/runners/RunnerTags.java
  co.com.choucair.certification.jhonescudero.runners.RunnerTags
+co/com/choucair/certification/jhonescudero/stepdefinitions/ChoucairAcademyStepDefinitions.java
+ co.com.choucair.certification.jhonescudero.stepdefinitions.ChoucairAcademyStepDefinitions
