@@ -13,4 +13,6 @@ public class SearchCoursePage extends PageObject {
             .located(By.xpath("//button[@class='btn btn-secondary']"));
     public static final Target SELECT_COURSE= Target.the("Da click para buscar el curso")
             .located(By.xpath("/html/body/div[2]/div[2]/div/div/div/section/div/div/div[1]/h4/a"));
+    public static final Target NAME_COURSE= Target.the("Extraer el nombre del curso")
+            .located(By.xpath("//h1[contains(text(),'ISTQB Agile Tester Extension')]"));
 }
