@@ -1,4 +1,5 @@
 package co.com.choucair.certification.jhonescudero.runners;
+import co.com.choucair.certification.jhonescudero.model.AcademyChoucairData;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.SnippetType;

@@ -4,11 +4,13 @@ co/com/choucair/certification/jhonescudero/tasks/OpenUp.java
  co.com.choucair.certification.jhonescudero.tasks.OpenUp
 co/com/choucair/certification/jhonescudero/userinterface/ChoucairLoginPage.java
  co.com.choucair.certification.jhonescudero.userinterface.ChoucairLoginPage
-co/com/choucair/certification/jhonescudero/tasks/Login.java
- co.com.choucair.certification.jhonescudero.tasks.Login
+co/com/choucair/certification/jhonescudero/tasks/Search.java
+ co.com.choucair.certification.jhonescudero.tasks.Search
 co/com/choucair/certification/jhonescudero/questions/Answer.java
  co.com.choucair.certification.jhonescudero.questions.Answer
 co/com/choucair/certification/jhonescudero/userinterface/SearchCoursePage.java
  co.com.choucair.certification.jhonescudero.userinterface.SearchCoursePage
-co/com/choucair/certification/jhonescudero/tasks/Search.java
- co.com.choucair.certification.jhonescudero.tasks.Search
+co/com/choucair/certification/jhonescudero/model/AcademyChoucairData.java
+ co.com.choucair.certification.jhonescudero.model.AcademyChoucairData
+co/com/choucair/certification/jhonescudero/tasks/Login.java
+ co.com.choucair.certification.jhonescudero.tasks.Login
