@@ -22,7 +22,7 @@ public class Search implements Task {
     @Override
     public <T extends Actor> void performAs(T actor) {
         actor.attemptsTo(Click.on(SearchCoursePage.BUTTON_UC),
-                Enter.theValue("Foundation Express").into(SearchCoursePage.INPUT_COURSE),
+                Enter.theValue("ISTQB Agile Tester Extension").into(SearchCoursePage.INPUT_COURSE),
                 Click.on(SearchCoursePage.BUTTON_GO),
                 Click.on(SearchCoursePage.SELECT_COURSE)
         );

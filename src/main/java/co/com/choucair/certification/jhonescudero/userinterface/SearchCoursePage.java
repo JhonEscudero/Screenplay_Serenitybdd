@@ -12,5 +12,5 @@ public class SearchCoursePage extends PageObject {
     public static final Target BUTTON_GO= Target.the("Selecciona la universidad choucair")
             .located(By.xpath("//button[@class='btn btn-secondary']"));
     public static final Target SELECT_COURSE= Target.the("Da click para buscar el curso")
-            .located(By.xpath("/html/body/div[2]/div[2]/div/div/div/section/div/div/div[2]/h4/a"));
+            .located(By.xpath("/html/body/div[2]/div[2]/div/div/div/section/div/div/div[1]/h4/a"));
 }

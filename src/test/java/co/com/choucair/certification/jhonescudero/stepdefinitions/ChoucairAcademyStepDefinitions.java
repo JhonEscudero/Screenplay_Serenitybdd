@@ -25,13 +25,12 @@ public class ChoucairAcademyStepDefinitions {
     }
 
     @When("^he search for the course (.*) on the choucair academy platform$")
-    public void heSearchForTheCourseFoundationExpressOnTheChoucairAcademyPlatform(String course) {
-        OnStage.theActorInTheSpotlight().attemptsTo(Search.the("Foundation Express"));
-
+    public void heSearchForTheCourseISTQBAgileTesterExtensionOnTheChoucairAcademyPlatform(String course) {
+        OnStage.theActorInTheSpotlight().attemptsTo(Search.the(course));
     }
 
-    @Then("^he finds the course called resources (.*)$")
-    public void heFindsTheCourseCalledResourcesFoundationExpress() {
+    @Then("^he finds the course called resources ISTQB Agile Tester Extension$")
+    public void heFindsTheCourseCalledResourcesISTQBAgileTesterExtension() {
 
     }
 
